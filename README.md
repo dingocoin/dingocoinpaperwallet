@@ -1,0 +1,2 @@
+# dingocoinpaperwallet
+Paperwallet for Dingocoin
